@@ -34,7 +34,7 @@ export default function CartOffcanvas({ show, onHide }) {
               </Button>
             </Link>
 
-            <Link to="/payment" className=" paiement flex-grow-1" onClick={onHide}>
+            <Link to="/checkout" className=" paiement flex-grow-1" onClick={onHide}>
               <Button className="w-100">
                 Paiement
               </Button>
