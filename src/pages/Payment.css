@@ -1,0 +1,94 @@
+/* payment.css */
+
+/* Conteneur de ton formulaire */
+.payment-form {
+    max-width: 420px;
+    margin: auto;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    font-family: system-ui, sans-serif;
+  }
+  
+  /* En-tête “Secure, 1-click checkout with Link” */
+  .secure-header {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #006aff;
+    margin-bottom: 1rem;
+  }
+  .secure-header svg {
+    margin-left: auto;
+  }
+  
+  /* Stripe Payment Element: style flat, bordures, padding */
+  .PaymentElement,                /* si tu utilises le nom par défaut */
+  .StripeElement {                /* fallback */
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Focus outline */
+  .PaymentElement:focus,
+  .StripeElement:focus {
+    border-color: #006aff;
+    box-shadow: none;
+    outline: none;
+  }
+  
+  /* Bouton Pay now */
+  .payment-form button {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  .payment-form button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  .payment-form button:hover:not(:disabled) {
+    background-color: rgb(29, 140, 54) !important;
+  }
+
+/* Libère de la place à droite du champ */
+.card-number-input {
+    padding-right: 6rem;
+  }
+  
+  /* Conteneur des logos, positionné par rapport à la section */
+  .card-number-section {
+    position: relative;
+  }
+  
+  /* Les logos */
+  .card-icons {
+    position: absolute;
+    top: 2.5rem;    /* ajuste en fonction de ton line-height/padding */
+    right: 1rem;    /* décale depuis la bordure droite du champ */
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .card-icons img {
+    height: 1.5rem;
+    width: auto;
+  }
+
+.can{
+    color: rgb(22, 120, 44) !important;
+    font-family: system-ui, sans-serif;
+    font-weight: bold;
+}

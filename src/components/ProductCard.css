@@ -1,0 +1,99 @@
+
+.qty-badge {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: #369e4e;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+.qty-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #16782c;
+  border-radius: 40px;
+  padding: 0 1.2rem;
+  height: 54px;
+  color: #fff;
+}
+.qty-control button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  padding: 0;
+}
+.qty-control span {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+
+
+.btn-add {
+  background: #16782c;
+  color: #fff;
+  border: none;
+  padding: 0.9rem 0;
+  border-radius: 40px;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+.btn-add:hover { background: #16782c; }
+
+
+.qty-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #16782c;
+  border-radius: 40px;
+  padding: 0 1.6rem;
+  height: 60px;
+  width: 100%;
+  color: #fff;
+}
+.qty-control button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  padding: 0;
+}
+.qty-control span {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+
+.qty-badge {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background: #16782c;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.text1 {
+  color: #000;
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.text1:hover,
+.text1:focus {
+  color: #000;           /* garde le noir au survol / focus */
+  text-decoration: none; /* empêche le soulignement */
+}

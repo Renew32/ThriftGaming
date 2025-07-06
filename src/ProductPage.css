@@ -1,0 +1,57 @@
+.breadcrumb-item a {
+    color: #495057;
+    text-decoration: none;
+}
+
+.breadcrumb-item a:hover,
+.breadcrumb-item a:focus {
+    color: #495057;
+    text-decoration: underline;
+}
+
+
+.breadcrumb-item.active {
+    color: #000;
+
+}
+
+
+.btn-add {
+    border-radius: 100px;
+    background: #369e4e;
+    border: none;
+}
+
+
+.btn-qty {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 48px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+.btn-qty.minus {
+    background: #fff;
+    border: none;
+    color: #369e4e;
+}
+
+
+.btn-qty.plus {
+    background: #fff;
+    border: none;
+    color: #369e4e;
+
+}
+
+
+
+.li{
+    border-radius: 20px;
+}

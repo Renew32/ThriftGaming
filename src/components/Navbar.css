@@ -1,0 +1,23 @@
+
+.title{
+  color: #369e4e;
+}
+
+.nav-fixed {
+  position: sticky;
+  top: 0;
+  z-index: 1040;
+}
+
+/* styles des liens */
+.nav-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* lien actif : noir plein */
+.nav-active   { color: #369e4e !important; }
+
+/* lien inactif : gris 60 % */
+.nav-inactive { color: #16782c !important; }
+.nav-inactive:hover { color: #369e4e !important; }

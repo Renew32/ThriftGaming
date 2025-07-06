@@ -1,0 +1,8 @@
+
+.Range__track {
+    height: 6px;
+}
+.Range__thumb:focus-visible {
+    outline: 4px solid    #369e4e;
+;
+}

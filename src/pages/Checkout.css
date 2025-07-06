@@ -1,0 +1,19 @@
+.checkout {
+    /* override Bootstrap’s .btn-primary */
+    background-color: #16782c !important;
+    border-color: #16782c !important;
+    color: #fff !important;
+    margin-top: 1.5rem;
+}
+
+.form-control {
+    max-width: 2000px !important;
+    margin: 0 auto 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #000000;
+}
+/* darker green on hover */
+.checkout:hover {
+    background-color: #369e4e !important;
+    border-color: #308f47 !important;
+}

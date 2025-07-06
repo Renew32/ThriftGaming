@@ -1,0 +1,30 @@
+
+.continue-btn {
+    /* override Bootstrap’s .btn-primary */
+    background-color: #16782c !important;
+    border-color: #16782c !important;
+    color: #fff !important;
+    margin-top: 1.5rem;
+}
+
+/* darker green on hover */
+.continue-btn:hover {
+    background-color: #369e4e !important;
+    border-color: #308f47 !important;
+}
+
+
+.checkout {
+    /* override Bootstrap’s .btn-primary */
+    background-color: #16782c !important;
+    border-color: #16782c !important;
+    color: #fff !important;
+    margin-top: 1.5rem;
+}
+
+/* darker green on hover */
+.checkout:hover {
+    background-color: #369e4e !important;
+    border-color: #308f47 !important;
+}
+

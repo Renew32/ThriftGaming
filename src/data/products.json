@@ -1,0 +1,572 @@
+[
+  {
+    "id": "ps5-pro",
+    "brand": "PlayStation",
+    "type": "console",
+    "name": "PS5 Pro – Puissance 8K entre vos mains",
+    "price": 499,
+    "imgs": [
+      "/img/ps5-pro/1.webp",
+      "/img/ps5-pro/ps5-pro-2.jpg",
+      "/img/ps5-pro/ps5-pro-1.jpg",
+      "/img/ps5-pro/ps5-pro-3.jpg",
+      "/img/ps5-pro/ps5-pro-4.jpg"
+    ],
+    "description": "Version haut de gamme avec GPU 8K et SSD 1 To.",
+    "about": [
+      "Architecture CPU Zen 4 + GPU RDNA 4 offrant un rendu 8K et ray-tracing temps réel",
+      "SSD NVMe 1 To avec I/O ultra-rapide : chargements quasi instantanés",
+      "Manette DualSense incluse (retour haptique & gâchettes adaptatives)",
+      "Audio Tempest 3D pour un son positionnel immersif",
+      "Rétro-compatible avec la majorité des jeux PS4™ via Game Boost",
+      "Console reconditionnée, test matériel 25 points, garantie 12 mois"
+    ]
+  },
+  {
+    "id": "ps5",
+    "brand": "PlayStation",
+    "type": "console",
+    "name": "PS5 – Entrez dans la nouvelle ère du jeu",
+    "price": 399,
+    "imgs": [
+      "/img/ps5/4.webp",
+      "/img/ps5/1.png",
+      "/img/ps5/2.webp"
+    ],
+    "description": "PS5 825 Go avec manette DualSense incluse.",
+    "about": [
+      "CPU 8 cœurs Zen 2 + GPU RDNA 2 avec ray-tracing",
+      "SSD 825 Go : temps de chargement divisés par 10 vs PS4",
+      "Mode Game Boost pour titres PS4 compatibles 60 ips",
+      "DualSense : vibrations haptique, micro, USB-C",
+      "Wi-Fi 6 & Bluetooth 5, sortie HDMI 2.1 4K/120 Hz",
+      "Reconditionnée, livrée avec câble HDMI Ultra High Speed, garantie 12 mois"
+    ]
+  },
+  {
+    "id": "ps5-slim",
+    "brand": "PlayStation",
+    "type": "console",
+    "name": "PS5 Slim – Grand spectacle, format compact",
+    "price": 439,
+    "imgs": [
+      "/img/ps5-slim/2.webp",
+      "/img/ps5-slim/1.jpg"
+    ],
+    "description": "Châssis 30 % plus fin, même puissance next-gen.",
+    "about": [
+      "Design allégé : volume réduit d’un tiers vs PS5 originale",
+      "Lecteur Blu-ray UHD amovible (vendu séparément)",
+      "SSD 1 To intégré + transfert USB-C frontal",
+      "Refroidissement repensé pour un niveau sonore réduit",
+      "Compatible VRR, 4K 120 Hz et HDR10",
+      "Garantie commerciale 1 an, retour 30 jours"
+    ]
+  },
+
+
+  {
+    "id": "bundle-fortnite",
+    "brand": "PlayStation",
+    "type": "bundle",
+    "name": "PS5 Bundle – Fortnite (Digital 1 To)",
+    "price": 579,
+    "imgs": ["/img/bundle/1.webp"],
+    "description": "PS5 Digital + pack Fortnite Polar Legends.",
+    "about": [
+      "Console PS5 Digital 1 To sans lecteur disque",
+      "Code Fortnite Polar Legends + 1000 V-Bucks inclus",
+      "DualSense blanc + câble USB-C fournis",
+      "Accès gratuit au mode Creatif 2.0 et Battle Royale",
+      "Mise à jour automatique vers la meilleure version du jeu",
+      "Garantie 12 mois, retour gratuit 14 jours"
+    ]
+  },
+  {
+    "id": "bundle-gow-ghost",
+    "brand": "PlayStation",
+    "type": "bundle",
+    "name": "PS5 Bundle – God of War Ragnarök + Ghost of Tsushima",
+    "price": 649,
+    "imgs": ["/img/bundle/2.webp"],
+    "description": "PS5 Disc + deux exclus AAA.",
+    "about": [
+      "Console PS5 à lecteur Blu-ray 825 Go",
+      "Codes complets God of War Ragnarök & Ghost of Tsushima Director’s Cut",
+      "Support vertical officiel fourni",
+      "Graphismes 4K 60 ips, gâchettes adaptatives pour un combat immersif",
+      "DualSense blanc + câbles HDMI 2.1 et alimentation inclus",
+      "Kit reconditionné, testé & nettoyé"
+    ]
+  },
+  {
+    "id": "bundle-spiderman2",
+    "brand": "PlayStation",
+    "type": "bundle",
+    "name": "PS5 Bundle – Marvel’s Spider-Man 2",
+    "price": 649,
+    "imgs": ["/img/bundle/5.webp"],
+    "description": "PS5 1 To + Spider-Man 2 digital.",
+    "about": [
+      "GPU RDNA 2 pour un New York en ray-tracing 60 ips",
+      "Charge ultra-rapide entre les districts via SSD",
+      "Retour haptique retranscrivant la toile et les coups",
+      "Manette DualSense avec skins symbiote numérique",
+      "Inclut bonus de précommande (costumes, points compétence)",
+      "Garantie 12 mois pièces & main-d’œuvre"
+    ]
+  },
+  {
+    "id": "bundle-astrobot",
+    "brand": "PlayStation",
+    "type": "bundle",
+    "name": "PS5 Bundle – ASTRO BOT Rescue Mission",
+    "price": 579,
+    "imgs": ["/img/bundle/4.webp"],
+    "description": "PS5 Digital + ASTRO BOT.",
+    "about": [
+      "Parcours sensoriel idéal pour découvrir le retour haptique DualSense",
+      "Mode 60 ips avec HDR sur téléviseur compatible",
+      "Inclus : bande-son numérique et avatars exclus",
+      "Console 1 To, Wi-Fi 6, Bluetooth audio 5.1",
+      "Setup rapide via l’app PlayStation sur iOS/Android",
+      "Reconditionné grade A"
+    ]
+  },
+  {
+    "id": "bundle-mw3",
+    "brand": "PlayStation",
+    "type": "bundle",
+    "name": "PS5 Bundle – Call of Duty Modern Warfare III",
+    "price": 649,
+    "imgs": ["/img/bundle/3.webp"],
+    "description": "PS5 Disc + MW III édition standard.",
+    "about": [
+      "Campagne, Multijoueur et Zombies MW III inclus (version digitale)",
+      "120 ips sur écrans compatibles, cross-play complet",
+      "Retour haptique dédié aux types d’armes",
+      "DualSense + câble USB-C et HDMI 2.1",
+      "Garantie vendeur 12 mois"
+    ]
+  },
+
+
+  {
+    "id": "dualsense-aurora-green",
+    "brand": "PlayStation",
+    "type": "controller",
+    "name": "DualSense – Aurora Green",
+    "price": 74,
+    "imgs": ["/img/dualsense/1.webp"],
+    "description": "Coloris vert boréal, sticks recalibrés.",
+    "about": [
+      "Retour haptique haute fidélité",
+      "Gâchettes adaptatives à résistance variable",
+      "Batterie Li-ion > 80 % capacité d’origine",
+      "Prise casque 3,5 mm + micro intégré",
+      "Firmware mis à jour (affecte latence & gyro)",
+      "Reconditionnée, garantie 12 mois"
+    ]
+  },
+  {
+    "id": "dualsense-cosmic-purple",
+    "brand": "PlayStation",
+    "type": "controller",
+    "name": "DualSense – Cosmic Purple",
+    "price": 74,
+    "imgs": ["/img/dualsense/2.webp"],
+    "description": "Violet cosmique, USB-C, Bluetooth 5.1.",
+    "about": [
+      "Capteurs inertiels 6 axes pour visée gyroscopique",
+      "Surface antidérapante micro-symboles PS",
+      "Sticks analogiques recalibrés, zone morte < 2 %",
+      "Charge complète ≈ 2 h via adaptateur 5 V 2 A (non fourni)",
+      "Garantie commerciale 12 mois"
+    ]
+  },
+  {
+    "id": "dualsense-galactic-red",
+    "brand": "PlayStation",
+    "type": "controller",
+    "name": "DualSense – Galactic Red",
+    "price": 74,
+    "imgs": ["/img/dualsense/3.webp"],
+    "description": "Rouge galactique éclatant.",
+    "about": [
+      "Luminosité LED bleue réduite (firmware 2024) pour autonomie +10 %",
+      "Trackpad capacitif multi-doigt",
+      "Compatibilité PC/Steam & iOS 14.5+ via Bluetooth",
+      "Reconditionnée grade A, sticks sans drift",
+      "Câble USB-C non inclus"
+    ]
+  },
+  {
+    "id": "dualsense-grey-classic",
+    "brand": "PlayStation",
+    "type": "controller",
+    "name": "DualSense – Grey Classic (30e anniv.)",
+    "price": 79,
+    "imgs": ["/img/dualsense/4.webp"],
+    "description": "Homage à la PS1 en gris rétro.",
+    "about": [
+      "Boutons colorés façon DualShock 1994",
+      "Rétroéclairage LED blanc discret",
+      "Bluetooth 5.1 + USB-C 2.0",
+      "Batterie > 6 h en usage mixte",
+      "Edition limitée reconditionnée, garantie 1 an"
+    ]
+  },
+
+
+  {
+    "id": "series-x",
+    "brand": "Xbox",
+    "type": "console",
+    "name": "Xbox Series X – 4K/120 FPS sans compromis",
+    "price": 459,
+    "imgs": [
+      "/img/Xbox/console/1.png",
+      "/img/Xbox/console/2.jpg",
+      "/img/Xbox/console/3.jpg"
+    ],
+    "description": "SSD 1 To, lecteur Blu-ray, accès Game Pass.",
+    "about": [
+      "Puissance GPU 12 TFLOPS RDNA 2 : jeux 4K jusqu’à 120 ips",
+      "SSD NVMe 1 To + Xbox Velocity Architecture : Quick Resume instantané",
+      "Ray-tracing DirectX accéléré matériellement",
+      "Audio spatial 3D Dolby Atmos / DTS :X",
+      "Lecteur Blu-ray UHD 4K + rétrocompatibilité Xbox 360/One",
+      "Manette Xbox Carbon Black incluse, garantie 12 mois"
+    ]
+  },
+  {
+    "id": "series-s",
+    "brand": "Xbox",
+    "type": "console",
+    "name": "Xbox Series S – Next-gen à petit prix",
+    "price": 279,
+    "imgs": [
+      "/img/Xbox/console/6.jpg",
+      "/img/Xbox/console/5.jpg",
+      "/img/Xbox/console/4.jpg"
+    ],
+    "description": "Digital 512 Go, 1440p 120 ips.",
+    "about": [
+      "SSD 512 Go + Quick Resume pour changer de jeu en 8 s",
+      "Sortie jusqu’à 1440p 120 Hz + upscaling 4K",
+      "4 TFLOPS RDNA 2 : ray-tracing matériel",
+      "Wi-Fi 5 et port Ethernet gigabit",
+      "Accès Xbox Game Pass Ultimate (abonnement vendu séparément)",
+      "Manette Robot White incluse, garantie 1 an"
+    ]
+  },
+  {
+    "id": "xbox-one-1tb",
+    "brand": "Xbox",
+    "type": "console",
+    "name": "Xbox One 1 To – Reconditionnée",
+    "price": 249,
+    "imgs": [
+      "/img/Xbox/console/7.jpg",
+      "/img/Xbox/console/8.jpg",
+      "/img/Xbox/console/9.jpg"
+    ],
+    "description": "Génération précédente 1 To + manette.",
+    "about": [
+      "Jeux 1080p HDR10, lecteur Blu-ray Full HD",
+      "1 To HDD interne pour stocker ~250 jeux",
+      "Rétro-compatibilité Xbox 360 & Xbox originale",
+      "3 ports USB 3.0 pour stockage externe",
+      "Manette sans fil noire incluse, garantie vendeur 12 mois"
+    ]
+  },
+  {
+    "id": "series-s-fortnite",
+    "brand": "Xbox",
+    "type": "bundle",
+    "name": "Xbox Series S – Pack Fortnite / Rocket League",
+    "price": 299,
+    "imgs": [
+      "/img/Xbox/bundle/1.jpg",
+      "/img/Xbox/bundle/2.webp",
+      "/img/Xbox/bundle/3.jpg"
+    ],
+    "description": "Console + 1000 V-Bucks + crédits Rocket League.",
+    "about": [
+      "Series S Digital 512 Go, coloris blanc",
+      "1 000 V-Bucks + Pack Midnight Drive pour Fortnite",
+      "1 000 Crédits Rocket League inclus",
+      "Manette Robot White + câble HDMI 2.1",
+      "Garantie commerciale 12 mois"
+    ]
+  },
+  {
+    "id": "bundle-xsx-starfield",
+    "brand": "Xbox",
+    "type": "bundle",
+    "name": "Xbox Series X Bundle – Starfield",
+    "price": 559,
+    "imgs": ["/img/Xbox/bundle/4.jpg"],
+    "description": "Series X 1 To + Starfield digital.",
+    "about": [
+      "Explorez 1 000 planètes en 4K 60 ips",
+      "Manette Carbon Black + câble HDMI 2.1 inclus",
+      "HDR10 et Dolby Atmos pour une immersion totale",
+      "Accès Game Pass 14 jours offert (code)",
+      "Console reconditionnée, garantie 1 an"
+    ]
+  },
+  {
+    "id": "bundle-xsx-diablo4",
+    "brand": "Xbox",
+    "type": "bundle",
+    "name": "Xbox Series X Bundle – Diablo IV",
+    "price": 559,
+    "imgs": [
+      "/img/Xbox/bundle/5.jpg",
+      "/img/Xbox/bundle/6.webp",
+      "/img/Xbox/bundle/7.webp"
+    ],
+    "description": "Series X + Diablo IV Standard.",
+    "about": [
+      "Jeu Diablo IV digital (campagne + saison)",
+      "120 ips en mode performance 1080p",
+      "Ray-tracing et chargement rapide grâce au SSD 1 To",
+      "Manette sans fil noire, bouton Share",
+      "Smart Delivery : meilleure version garantie"
+    ]
+  },
+  {
+    "id": "bundle-xss-minecraft",
+    "brand": "Xbox",
+    "type": "bundle",
+    "name": "Xbox Series S Bundle – Minecraft Legends",
+    "price": 319,
+    "imgs": [
+      "/img/Xbox/bundle/8.jpeg",
+      "/img/Xbox/bundle/9.jpeg"
+    ],
+    "description": "Series S + Minecraft Legends + Java/Bedrock.",
+    "about": [
+      "Inclut Minecraft Legends (code), Java & Bedrock PC",
+      "Supports cross-play et cross-save",
+      "Manette Robot White, câble HDMI 2.1 inclus",
+      "Stockage extensible via carte Seagate 1 To (option)",
+      "Garantie 12 mois"
+    ]
+  },
+
+
+  {
+    "id": "xbox-pad",
+    "brand": "Xbox",
+    "type": "controller",
+    "name": "Manette Xbox – Noir Carbone",
+    "price": 54,
+    "imgs": ["/img/Xbox/controller/3.jpg"],
+    "description": "Grip texturé, bouton Share.",
+    "about": [
+      "Textures antidérapantes sur triggers, bumpers et poignées",
+      "Croix directionnelle hybride pour combos précis",
+      "Bluetooth Low Energy + USB-C",
+      "Port audio 3,5 mm, compatible casque filaire",
+      "Reconditionnée, sticks calibrés, garantie 12 mois"
+    ]
+  },
+  {
+    "id": "xbox-pad-shock-blue",
+    "brand": "Xbox",
+    "type": "controller",
+    "name": "Manette Xbox – Shock Blue",
+    "price": 59,
+    "imgs": ["/img/Xbox/controller/2.jpg"],
+    "description": "Bleu électrique, USB-C.",
+    "about": [
+      "Couleur Shock Blue exclusive",
+      "Mapping de boutons personnalisable via Xbox Accessories",
+      "Jusqu’à 40 h d’autonomie (piles AA incluses)",
+      "Compatible PC, iOS, Android via Bluetooth 5",
+      "Reconditionnée grade A"
+    ]
+  },
+  {
+    "id": "xbox-pad-robot-white",
+    "brand": "Xbox",
+    "type": "controller",
+    "name": "Manette Xbox – Robot White",
+    "price": 54,
+    "imgs": ["/img/Xbox/controller/1.webp"],
+    "description": "Finition blanche classique.",
+    "about": [
+      "Nouvelle croix hybride & bouton Share",
+      "Grip texturé sur gâchettes et arrière",
+      "Compatible Windows 10/11, Steam & GeForce Now",
+      "Port USB-C (câble vendu séparément)",
+      "Garantie vendeur 1 an"
+    ]
+  },
+  {
+    "id": "xbox-pad-electric-volt",
+    "brand": "Xbox",
+    "type": "controller",
+    "name": "Manette Xbox – Electric Volt",
+    "price": 59,
+    "imgs": ["/img/Xbox/controller/4.jpg"],
+    "description": "Vert fluo, sticks calibrés.",
+    "about": [
+      "Coloris Electric Volt haute visibilité",
+      "Connexion jusqu’à 8 manettes simultanées sur console",
+      "Switch rapide entre console, PC et mobile",
+      "Reconditionnée, palette de pièces d’origine",
+      "Garantie 12 mois"
+    ]
+  },
+  {
+    "id": "xbox-rouge",
+    "brand": "Xbox",
+    "type": "controller",
+    "name": "Manette Xbox – Pulse Red",
+    "price": 59,
+    "imgs": ["/img/Xbox/controller/5.jpg"],
+    "description": "Rouge vif, ergonomie Xbox 2022.",
+    "about": [
+      "Couleur Pulse Red, face avant rouge & dos blanc",
+      "Surface texturée et gâchettes antidérapantes",
+      "Bouton Share dédié pour capturer instantanément",
+      "Firmware mis à jour (latence réduite)",
+      "Grade A reconditionné, garantie 1 an"
+    ]
+  },
+  {
+    "id": "switch-oled",
+    "brand": "Nintendo",
+    "type": "console",
+    "name": "Switch OLED – Couleurs éclatantes partout",
+    "price": 319,
+    "imgs": ["/img/nintendo/console/1.webp", "/img/nintendo/console/2.webp", "/img/nintendo/console/3.webp", "/img/nintendo/console/4.webp","/img/nintendo/console/5.webp"],
+    "description": "Console hybride au superbe écran 7″ OLED.",
+    "about": [
+      "Écran OLED de 7 po à contraste infini pour des couleurs vives",
+      "64 Go de stockage interne extensible via micro-SD",
+      "Dock nouvelle génération avec port Ethernet intégré (câble LAN vendu séparément)",
+      "Trois modes : téléviseur, table et portable pour jouer partout",
+      "Autonomie jusqu’à 9 h selon le titre (batterie testée)",
+      "Console reconditionnée, Joy-Con calibrés et garantie 12 mois"
+    ]
+  },
+  {
+    "id": "switch-lite",
+    "brand": "Nintendo",
+    "type": "console",
+    "name": "Switch Lite – Le jeu nomade absolu",
+    "price": 179,
+    "imgs": [ "/img/nintendo/console/6.avif", "/img/nintendo/console/7.avif", "/img/nintendo/console/8.avif"],
+    "description": "Version 100 % portable de la Nintendo Switch.",
+    "about": [
+      "Format monobloc léger (275 g) pour jouer partout",
+      "Écran tactile 5,5 po 720p avec luminosité ajustable",
+      "Jusqu’à 7 h d’autonomie (batterie vérifiée / remplacée si < 80 %)",
+      "Compatible avec la majorité des jeux Switch™* (mode portable requis)",
+      "Wi-Fi double bande + Bluetooth audio (MAJ 13.0)",
+      "Reconditionnée, chargeur USB-C officiel et garantie 12 mois"
+    ]
+  },
+
+  {
+    "id": "joycon",
+    "brand": "Nintendo",
+    "type": "controller",
+    "name": "Paire de Joy-Con – Gris",
+    "price": 69,
+    "imgs": ["/img/nintendo/joyc/1.avif", "/img/nintendo/joyc/2.avif"],
+    "description": "Joy-Con officiels couleur gris neutre.",
+    "about": [
+      "Deux contrôleurs détachables : gauche + droite",
+      "Vibrations HD et gyroscopes 6 axes pour un contrôle précis",
+      "Batteries Li-ion ≥ 80 % de capacité nominale",
+      "Se chargent sur la console ou via Grip (vendu séparément)",
+      "Dragonnes de sécurité incluses",
+      "Reconditionnés, sticks calibrés anti-drift"
+    ]
+  },
+
+  {
+    "id": "switch-pro-controller",
+    "brand": "Nintendo",
+    "type": "controller",
+    "name": "Manette Nintendo Switch Pro",
+    "price": 79,
+    "imgs": ["/img/nintendo/joyc/4.avif"],
+    "description": "Option premium pour sessions intensives.",
+    "about": [
+      "Ergonomie proche d’une manette classique (Xbox-style)",
+      "Vibrations HD, gyroscope intégré, NFC amiibo",
+      "Autonomie pouvant dépasser 40 h par charge",
+      "Port USB-C pour recharge rapide (câble inclus)",
+      "Reconditionnée, sticks & gâchettes testés, garantie 12 mois"
+    ]
+  },
+
+
+  {
+    "id": "zelda-botw",
+    "brand": "Nintendo",
+    "type": "game",
+    "name": "The Legend of Zelda : Breath of the Wild (Switch)",
+    "price": 49,
+    "imgs": ["/img/nintendo/games/1.webp"],
+    "description": "Le chef-d’œuvre open-world de Nintendo.",
+    "about": [
+      "Exploration libre du royaume d’Hyrule (180 km²)",
+      "60 sanctuaires, 4 créatures divines, DLC inclus*",
+      "Cartouche inspectée, contacts nettoyés",
+      "Boîtier et jaquette FR/EN d’origine",
+      "Compatible Switch, Switch Lite & Switch OLED"
+    ]
+  },
+  {
+    "id": "mario-kart-8",
+    "brand": "Nintendo",
+    "type": "game",
+    "name": "Mario Kart 8 Deluxe (Switch)",
+    "price": 44,
+    "imgs": ["/img/nintendo/games/2.webp"],
+    "description": "Le jeu de course le plus vendu de la Switch.",
+    "about": [
+      "48 circuits + 6 vagues Booster Pass (DLC inclus via code)*",
+      "Mode 2 à 12 joueurs local / en ligne",
+      "Cartouche testée, boîtier FR",
+      "Compatible avec les volants Joy-Con"
+    ]
+  },
+  {
+    "id": "smash-ultimate",
+    "brand": "Nintendo",
+    "type": "game",
+    "name": "Super Smash Bros. Ultimate (Switch)",
+    "price": 49,
+    "imgs": ["/img/nintendo/games/3.webp"],
+    "description": "Combattez avec 80+ personnages emblématiques.",
+    "about": [
+      "Tous les combattants des opus précédents + nouveaux DLC*",
+      "Jusqu’à 8 joueurs simultanés en local",
+      "Cartouche nettoyée, jaquette FR/EN d’origine",
+      "Fonctionne sur Switch, Switch Lite & OLED"
+    ]
+  },
+  {
+    "id": "switch-sports",
+    "brand": "Nintendo",
+    "type": "game",
+    "name": "Nintendo Switch Sports",
+    "price": 39,
+    "imgs": ["/img/nintendo/games/4.jpg"],
+    "description": "Bowling, Tennis, Chanbara & plus encore !",
+    "about": [
+      "Inclut 7 sports animés, mode en ligne compétitif",
+      "Contrôle par mouvement Joy-Con + sangle jambe*",
+      "Cartouche testée, dragonne Joy-Con incluse",
+      "Idéal pour jouer en famille comme à l’époque Wii Sports"
+    ]
+  }
+]

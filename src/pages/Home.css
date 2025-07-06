@@ -1,0 +1,53 @@
+.recommend-carousel .carousel-control-prev-icon,
+.recommend-carousel .carousel-control-next-icon {
+    filter: invert(1) brightness(0);
+}
+.recommender {
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: #2c3e40;
+    margin-top: 4rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.how-step-icon {
+    color: #426e4e;
+}
+
+.how-step-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.how-step-desc {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.4;
+}
+.comment-marche {
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: #2c3e40;
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 3rem;
+
+}
+
+
+.how-it-works {
+    background-color: #d9e8dd;
+}
+/* Green footer bar with trademark */
+.footer-bar {
+    background-color: #16782c;   /* Bootstrap “success” green */
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;            /* space above it */
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+

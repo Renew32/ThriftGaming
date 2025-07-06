@@ -1,0 +1,27 @@
+
+.panier .btn {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+    border-radius: 20px;
+}
+.panier .btn:hover,
+.panier .btn:focus {
+    background-color: #16782c;
+    border-color: #14421a;
+    color: #fff;
+    border-radius: 20px;
+}
+.paiement .btn {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+    border-radius: 20px;
+}
+.paiement .btn:hover,
+.paiement .btn:focus {
+    background-color: #16782c;
+    border-color: #14421a;
+    color: #fff;
+    border-radius: 20px;
+}
