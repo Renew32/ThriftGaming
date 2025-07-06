@@ -68,8 +68,8 @@ export default function Home() {
                             <h5 className="how-step-title">3. Livraison rapide</h5>
                             <p className="how-step-desc">
                                 Une fois votre commande validée, nous expédions directement
-                                la console <em>à vous</em>, sous 5-10 jours
-                                ouvrables.
+                                la console <em>à vous</em>, en 24-72 heures
+                                partout dans le monde.
                             </p>
                         </Col>
                     </Row>
